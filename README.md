@@ -1,5 +1,6 @@
 # SATYAM CHAUDHARY
 <!-- 🔭 I’m currently working on Macro-Check.<br>👯 I’m looking to collaborate on Ai and full stack projects.<br>🌱 I’m currently Deep Learning. -->
+This too shall pass.
 
 
 ## 🌐 Socials:
