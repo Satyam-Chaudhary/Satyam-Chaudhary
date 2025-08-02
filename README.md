@@ -4,7 +4,9 @@ This too shall pass.
 
 
 ## 🌐 Socials:
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sattu3108) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sattu3108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-chaudhary-053742218/)
+ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sattu3108) 
+ <!--[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sattu3108) -->
+ <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-chaudhary-053742218/)-->
 
 
 # 📊 GitHub Stats:
